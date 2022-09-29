@@ -3,7 +3,6 @@ import java.util.*;
 public class 주차요금계산 {
 
     private static final String IN = "IN";
-    private static final String OUT = "OUT";
 
     public int[] solution(int[] fees, String[] records) {
 
